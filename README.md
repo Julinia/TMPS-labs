@@ -3,7 +3,7 @@
 ### Author 
 Turcanu Iuliana
 
-###Tasks:
+### Tasks:
  
 1. Choose an OO programming language and a suitable IDE or Editor (No frameworks/libs/engines allowed);
    
@@ -13,7 +13,7 @@ Turcanu Iuliana
    
 4. Based on the previous point, implement atleast 3 creational design patterns in your project;
 
-###Abstract Factory
+### Abstract Factory
 
 Abstract Factory
 Abstract Factory pattern helps us to create factory of related objects. In my case create objects inherited from Animal parent class or from Toy parent class. ( This pattern is connected with Factory).
@@ -34,7 +34,7 @@ Abstract Factory pattern helps us to create factory of related objects. In my ca
        }
 ```
 
-###Builder 
+### Builder 
 
 It is creational design pattern which operate with creating the complex objects and we need to use when the process involved in creating an object is extremely complex, with lots of mandatory and optional parameters.
 
@@ -42,7 +42,7 @@ It is creational design pattern which operate with creating the complex objects 
     Car car = new CarBuilder().setColor("black").setBrand("Toyota").setNumberOfSeats(4).setNumberOfDoors(2).setIsConvertible(true).createCar();
 ```
 
-###Prototype
+### Prototype
 
 Prototype pattern it is used for cloning the original object to the new and if it is needed modify the parameters.
 
@@ -57,6 +57,6 @@ Prototype pattern it is used for cloning the original object to the new and if i
     }
 ```
 
-###Conclusion: 
+### Conclusion: 
 
 In this laboratory work I used 3 creational design patterns to a specific domain in real life.
