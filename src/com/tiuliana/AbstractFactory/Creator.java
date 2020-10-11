@@ -1,9 +1,8 @@
-package com.tiuliana.Factory;
+package com.tiuliana.AbstractFactory;
 
 
 public class Creator {
     public static Car createFactory(String type) {
-
         if(type.equalsIgnoreCase("sport car")) {
             return new SportCar();
         } else if(type.equalsIgnoreCase("simple car")) {
@@ -12,6 +11,5 @@ public class Creator {
             System.out.println("Please specify a valid type");
             return null;
         }
-
     }
 }

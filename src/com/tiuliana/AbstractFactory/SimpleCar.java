@@ -1,8 +1,4 @@
-package com.tiuliana.Factory;
-
-import com.tiuliana.Builder.SimpleCarEngine;
-import com.tiuliana.Builder.SimpleCarWheels;
-
+package com.tiuliana.AbstractFactory;
 
 
 public class SimpleCar extends Car {
