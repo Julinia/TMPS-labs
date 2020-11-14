@@ -19,48 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30cd0dbb-f422-457a-8fd4-37473c370fc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Creational Design Pattern/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/description.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/project-template.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TMPS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/TMPS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/META-INF/TMPS.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/Creator.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/Creator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/Engine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/SimpleCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SimpleCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/SimpleCarEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SimpleCarEngine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/SimpleCarWheels.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SimpleCarWheels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/SportCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SportCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/SportCarEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SportCarEngine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/SportCarWheels.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SportCarWheels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/Wheels.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/Wheels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/Builder/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/Builder/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/Builder/CarBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/Builder/CarBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/Prototype/Brand$Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/Prototype/Brand$Model.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/Prototype/Brand.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/Prototype/Brand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/Creator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/Creator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/SimpleCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/SimpleCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/SimpleCarEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/SimpleCarEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/SimpleCarWheels.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/SimpleCarWheels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/SportCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/SportCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/SportCarEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/SportCarEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/SportCarWheels.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/SportCarWheels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/Wheels.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/Wheels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/Builder/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/Builder/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/Builder/CarBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/Builder/CarBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/Prototype/Brand.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/Prototype/Brand.java" afterDir="false" />
+    <list default="true" id="30cd0dbb-f422-457a-8fd4-37473c370fc2" name="Default Changelist" comment="Add .gitignore file">
+      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +48,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -137,8 +98,16 @@
       <option name="presentableId" value="Default" />
       <updated>1602443666994</updated>
       <workItem from="1602443673416" duration="10515000" />
-      <workItem from="1605358216739" duration="507000" />
+      <workItem from="1605358216739" duration="960000" />
     </task>
+    <task id="LOCAL-00001" summary="Add .gitignore file">
+      <created>1605358883012</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605358883012</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,11 +125,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add .gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add .gitignore file" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="328" y="106" key="#Project_Structure" timestamp="1605358316372">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="328" y="106" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1605358316372" />
+    <state x="664" y="441" key="#VCS_History_Cache_Settings" timestamp="1605358750416">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="664" y="441" key="#VCS_History_Cache_Settings/0.0.1680.1050@0.0.1680.1050" timestamp="1605358750416" />
     <state x="304" y="187" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605358348383">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -169,5 +146,33 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="577" y="334" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1605358347521" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1605359296560">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1605359296560" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1605359296559">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1605359296559" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1605359296559">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1605359296559" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1605359296559">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1605359296559" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1605358891259">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1605358891259" />
+    <state x="208" y="147" key="new project wizard" timestamp="1605359294004">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="208" y="147" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1605359294004" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1605358755336">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1605358755336" />
   </component>
 </project>
