@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30cd0dbb-f422-457a-8fd4-37473c370fc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Creational Design Pattern/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TMPS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/TMPS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/META-INF/TMPS.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/Creator.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/Creator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/Engine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/SimpleCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SimpleCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/SimpleCarEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SimpleCarEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/SimpleCarWheels.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SimpleCarWheels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/SportCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SportCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/SportCarEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SportCarEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/SportCarWheels.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SportCarWheels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/AbstractFactory/Wheels.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/Wheels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/Builder/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/Builder/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/Builder/CarBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/Builder/CarBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/Prototype/Brand$Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/Prototype/Brand$Model.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TMPS/com/tiuliana/Prototype/Brand.class" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/Prototype/Brand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/Creator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/Creator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/SimpleCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/SimpleCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/SimpleCarEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/SimpleCarEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/SimpleCarWheels.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/SimpleCarWheels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/SportCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/SportCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/SportCarEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/SportCarEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/SportCarWheels.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/SportCarWheels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/AbstractFactory/Wheels.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/AbstractFactory/Wheels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/Builder/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/Builder/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/Builder/CarBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/Builder/CarBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiuliana/Prototype/Brand.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/src/com/tiuliana/Prototype/Brand.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ikFQVTX79y8V4zi5wNiBi2iaLO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Creational Design Pattern" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.tiuliana.Main" />
+      <module name="TMPS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30cd0dbb-f422-457a-8fd4-37473c370fc2" name="Default Changelist" comment="" />
+      <created>1602443666994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602443666994</updated>
+      <workItem from="1602443673416" duration="10515000" />
+      <workItem from="1605358216739" duration="507000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="328" y="106" key="#Project_Structure" timestamp="1605358316372">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="328" y="106" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1605358316372" />
+    <state x="304" y="187" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605358348383">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1605358348383" />
+    <state x="577" y="334" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605358347521">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="577" y="334" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1605358347521" />
+  </component>
+</project>
