@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30cd0dbb-f422-457a-8fd4-37473c370fc2" name="Default Changelist" comment="Add .gitignore file">
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Structural Design Pattern/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1ikFQVTX79y8V4zi5wNiBi2iaLO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -60,9 +62,10 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.tiuliana.Main" />
       <module name="TMPS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -99,6 +102,8 @@
       <updated>1602443666994</updated>
       <workItem from="1602443673416" duration="10515000" />
       <workItem from="1605358216739" duration="960000" />
+      <workItem from="1607206033580" duration="95000" />
+      <workItem from="1607206157224" duration="252000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore file">
       <created>1605358883012</created>
@@ -138,30 +143,30 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="664" y="441" key="#VCS_History_Cache_Settings/0.0.1680.1050@0.0.1680.1050" timestamp="1605358750416" />
-    <state x="304" y="187" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605358348383">
+    <state x="304" y="187" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607206331124">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="304" y="187" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1605358348383" />
-    <state x="577" y="334" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605358347521">
+    <state x="304" y="187" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1607206331124" />
+    <state x="577" y="334" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1607206070587">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="577" y="334" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1605358347521" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1605359296560">
+    <state x="577" y="334" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1607206070587" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1607206374899">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1605359296560" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1605359296559">
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607206374899" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1607206374898">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1605359296559" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1605359296559">
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607206374898" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1607206374897">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1605359296559" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1605359296559">
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607206374897" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1607206374898">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1605359296559" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607206374898" />
     <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1605358891259">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
