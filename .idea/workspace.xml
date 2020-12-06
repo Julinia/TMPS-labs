@@ -20,27 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16fb0cda-9c35-4205-8e03-3856f5bd5785" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Structural Design Pattern/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Pattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/Creator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SimpleCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SimpleCarEngine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SimpleCarWheels.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SportCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SportCarEngine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/SportCarWheels.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/AbstractFactory/Wheels.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/Builder/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/Builder/CarBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/Prototype/Brand$Model.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Design Pattern/out/production/TMPS/com/tiuliana/Prototype/Brand.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural Design Pattern/src/com/tiuliana/Proxy/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioural Design Pattern/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structural Design Pattern/src/com/tiuliana/Bridge/BridgePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/Structural Design Pattern/src/com/tiuliana/Bridge/BridgePattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,15 +60,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,6 +85,7 @@
       <workItem from="1607205261160" duration="658000" />
       <workItem from="1607206413027" duration="89000" />
       <workItem from="1607206516778" duration="102000" />
+      <workItem from="1607206931885" duration="261000" />
     </task>
     <servers />
   </component>

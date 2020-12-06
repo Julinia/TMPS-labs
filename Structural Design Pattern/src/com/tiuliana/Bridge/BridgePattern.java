@@ -1,67 +1,67 @@
 package com.tiuliana.Bridge;
 
 
-abstract class Car {
-    protected Combustible combustible;
-
-    public Car(Combustible combustible) {
-        this.combustible = combustible;
+    interface Combustible {
+        void hasCombustible();
     }
 
-    abstract public void getType();
-}
+    class Battery implements Combustible {
 
-class SportCar extends Car {
-    SportCar(Combustible combustible){
-        super(combustible);
+        @Override
+        public void hasCombustible() {
+            System.out.println(" electricity");
+        }
     }
 
-    @Override
-    public void getType(){
-        System.out.print("Sport car has configuration for:");
-        combustible.hasCombustible();
-    }
-}
+    class Petrol implements Combustible {
 
-class SimpleCar extends Car {
-    SimpleCar(Combustible combustible){
-        super(combustible);
+        @Override
+        public void hasCombustible() {
+            System.out.println(" petrol");
+        }
     }
 
-    @Override
-    public void getType(){
-        System.out.print("Simple car has configuration for:");
-        combustible.hasCombustible();
+    class Diesel implements Combustible {
+
+        @Override
+        public void hasCombustible() {
+            System.out.println(" diesel");
+        }
     }
-}
 
-interface Combustible {
-    void hasCombustible();
-}
+    abstract class Car {
+        protected Combustible combustible;
 
-class Battery implements Combustible {
+        public Car(Combustible combustible) {
+            this.combustible = combustible;
+        }
 
-    @Override
-    public void hasCombustible() {
-        System.out.println(" electricity");
+        abstract public void getType();
     }
-}
 
-class Petrol implements Combustible {
+    class SimpleCar extends Car {
+        public SimpleCar(Combustible combustible) {
+            super(combustible);
+        }
 
-    @Override
-    public void hasCombustible() {
-        System.out.println(" petrol");
+        @Override
+        public void getType() {
+            System.out.print("Simple car has configuration for:");
+            combustible.hasCombustible();
+        }
     }
-}
 
-class Diesel implements Combustible {
+    class SportCar extends Car {
+        public SportCar(Combustible combustible) {
+            super(combustible);
+        }
 
-    @Override
-    public void hasCombustible() {
-        System.out.println(" diesel");
+        @Override
+        public void getType() {
+            System.out.print("Sport car has configuration for:");
+            combustible.hasCombustible();
+        }
     }
-}
 
 class BridgePattern {
     public static void main(String[] args)
