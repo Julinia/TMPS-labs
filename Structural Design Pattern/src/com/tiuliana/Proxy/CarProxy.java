@@ -38,7 +38,7 @@ class ProxySportCar implements Car {
 
 }
 
-public class ClientProxyDemo {
+public class CarProxy {
     public static void main(String[] args)  {
         Car car = new ProxySportCar();
         try {
