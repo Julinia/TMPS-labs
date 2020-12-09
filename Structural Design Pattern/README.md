@@ -39,11 +39,12 @@ public class FacadeCarApp {
         CarFacade facade = new CarFacade();
         facade.createCar();
     }
-}```
+}
+```
 
 ### Proxy
 
-Proxy is used to secure car movement. If you don't have the rights to start car engine, proxy will not let you do that by verifying your identity and check if your name is in the list of allowed persons or not.
+Proxy is used to secure car movement. If you don\'t have the rights to start car engine, proxy will not let you do that by verifying your identity and check if your name is in the list of allowed persons or not.
 
 ```java
 public class CarProxy {
