@@ -1,7 +1,5 @@
 # TMPS-labs
 ## Lab 1 - Creational Design Pattern
-### Author 
-Turcanu Iuliana
 
 ### Tasks:
  
