@@ -1,7 +1,5 @@
 # TMPS-lab-2
 ## Lab 1 - Structural Design Pattern
-### Author 
-Turcanu Iuliana
 
 ## Lab 2 - Structural Design Pattern
 ### Tasks:
