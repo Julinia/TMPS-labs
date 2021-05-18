@@ -1,7 +1,5 @@
 # TMPS-labs
 ## Lab 3 - Behavioral Design Pattern
-### Author 
-Turcanu Iuliana
 
 ### Tasks:
  
